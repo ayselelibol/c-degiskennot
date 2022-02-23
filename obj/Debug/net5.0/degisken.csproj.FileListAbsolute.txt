@@ -1,0 +1,16 @@
+C:\Users\elibo\Desktop\c#\degisken\bin\Debug\net5.0\degisken.exe
+C:\Users\elibo\Desktop\c#\degisken\bin\Debug\net5.0\degisken.deps.json
+C:\Users\elibo\Desktop\c#\degisken\bin\Debug\net5.0\degisken.runtimeconfig.json
+C:\Users\elibo\Desktop\c#\degisken\bin\Debug\net5.0\degisken.runtimeconfig.dev.json
+C:\Users\elibo\Desktop\c#\degisken\bin\Debug\net5.0\degisken.dll
+C:\Users\elibo\Desktop\c#\degisken\bin\Debug\net5.0\ref\degisken.dll
+C:\Users\elibo\Desktop\c#\degisken\bin\Debug\net5.0\degisken.pdb
+C:\Users\elibo\Desktop\c#\degisken\obj\Debug\net5.0\degisken.csproj.AssemblyReference.cache
+C:\Users\elibo\Desktop\c#\degisken\obj\Debug\net5.0\degisken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elibo\Desktop\c#\degisken\obj\Debug\net5.0\degisken.AssemblyInfoInputs.cache
+C:\Users\elibo\Desktop\c#\degisken\obj\Debug\net5.0\degisken.AssemblyInfo.cs
+C:\Users\elibo\Desktop\c#\degisken\obj\Debug\net5.0\degisken.csproj.CoreCompileInputs.cache
+C:\Users\elibo\Desktop\c#\degisken\obj\Debug\net5.0\degisken.dll
+C:\Users\elibo\Desktop\c#\degisken\obj\Debug\net5.0\ref\degisken.dll
+C:\Users\elibo\Desktop\c#\degisken\obj\Debug\net5.0\degisken.pdb
+C:\Users\elibo\Desktop\c#\degisken\obj\Debug\net5.0\degisken.genruntimeconfig.cache
